@@ -6,7 +6,7 @@ This project provides an in-depth analysis of the ICC Cricket World Cup 2023 usi
 
 - `Cricket_world_cup_23.ipynb`: Main notebook for data analysis and visualization.
 - `matches.csv`: Match data in CSV format.
-- `matches.xlsx`: Cleaned in Excel format.
+- `matches.xlsx`: Cleaned data in Excel format.
 
 ## 📊 Features
 
